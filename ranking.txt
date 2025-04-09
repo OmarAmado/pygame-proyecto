@@ -1,0 +1,5 @@
+omar,19
+monse,18
+sara,6
+omar,4
+miami,4
